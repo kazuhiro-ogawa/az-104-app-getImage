@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "az_104_app_getImage": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7215",
+      "launchBrowser": false
+    }
+  }
+}
