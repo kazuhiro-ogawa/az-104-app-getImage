@@ -1,6 +1,6 @@
 # 問題に使用する画像を取得するためのAzure Functions
 
-AZ-104 TrainingApp（https://github.com/kazuhiro-ogawa/az-104-react-app.git）
+AZ-104 TrainingApp(https://github.com/kazuhiro-ogawa/az-104-react-app.git)
 で使用する、画像取得用のAPIです。Azure FunctionsでC#を用いて作成しています。Azure Blob Storageから画像を取得します。
 
 ## システム構成図
