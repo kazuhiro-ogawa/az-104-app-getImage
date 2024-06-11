@@ -6,4 +6,5 @@ Azure FunctionsでC#を用いて作成しています。Azure Blob Storageから
 HTTPリクエストがトリガーで、レスポンスで取得した画像を返します。
 
 ## システム構成図
-![システム構成図_azurefunctions_getimage](https://github.com/kazuhiro-ogawa/az-104-app-getImage/assets/105719508/7f8b9370-c1e6-4216-ac56-c3cf65170d36)
+![getimage](https://github.com/kazuhiro-ogawa/az-104-app-getImage/assets/105719508/1f920bc0-0770-41e1-80b3-28afd507d4cd)
+
